@@ -6,7 +6,7 @@ subtitle: Ph.D. Student in CSE @ <a href="https://mip.postech.ac.kr">MIP Lab</a>
 
 profile:
   align: right
-  image: joonhyukpark.jpeg
+  image: joonhyukpark2.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>rswfaf at gmail dot com</p>
