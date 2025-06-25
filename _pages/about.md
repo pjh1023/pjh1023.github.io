@@ -22,26 +22,29 @@ I am a MS/Ph.D. student in the <a href="https://mip.postech.ac.kr">Medical Infor
 My research interests are computer vision, machine learning on graphs, and medical imaging.
 Currently, I am studying Topological Data Analysis (TDA) and their application on graphs.
 
-  
-
 ##### <b>Education</b>
-  - 2015-2021 Bachelor of Science (CSE) @ Handong Global University (HGU), Pohang, South Korea
-  - 2022~     MS/PhD (CSE) @ Pohang University of Science and Technology (POSTECH), Pohang, South Korea
+
+- 2015-2021 Bachelor of Science (CSE) @ Handong Global University (HGU), Pohang, South Korea
+- 2022~ MS/PhD (CSE) @ Pohang University of Science and Technology (POSTECH), Pohang, South Korea
 
 ##### <b>Experience</b>
-  - Research Assistant
-    - Image Processing & Intelligent System Lab @ HGU (Dr. Hojoon Kim), 2018-2020 
 
-  - Teaching Assistant
-    - Computer Architecture, HGU 2018-2,2019,2020
-    - Deep Learning, POSTECH 2023-2
-    - Principles of Software Construction 2025-1
+- Research Assistant
+
+  - Image Processing & Intelligent System Lab @ HGU (Dr. Hojoon Kim), 2018-2020
+
+- Teaching Assistant
+  - Computer Architecture, HGU 2018-2,2019,2020
+  - Deep Learning, POSTECH 2023-2
+  - Principles of Software Construction 2025-1
 
 ##### <b>Awards & Scholarships</b>
-  - Full 4-year National Excellence Scholarship of science and engineering department (2015)
+
+- Full 4-year National Excellence Scholarship of science and engineering department (2015)
 
 ##### <b>Academic Interests</b>
-  - Machine Learning
-  - Computer Vision
-  - Graph Neural Networks
-  - Medical Imaging
+
+- Machine Learning
+- Computer Vision
+- Graph Neural Networks
+- Medical Imaging
