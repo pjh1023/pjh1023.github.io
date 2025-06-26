@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description:
-categories: [Graph Neural Networks]
+categories: [Graph Neural Networks, Ordinary Differential Equations]
 nav: true
 nav_order: 1
 sort_field: date
