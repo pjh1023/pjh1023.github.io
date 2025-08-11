@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers accepted to MICCAI 2025 🇰🇷 (One Oral paper!)
+Two papers accepted to MICCAI 2025 🇰🇷 (one Oral paper!)
