@@ -35,11 +35,12 @@ Currently, I am studying Topological Data Analysis (TDA) and their application o
 - Teaching Assistant
   - Computer Architecture, HGU 2018-2, 2019, 2020
   - Deep Learning, POSTECH 2023-2
-  - Principles of Software Construction 2025-1
+  - Principles of Software Construction, POSTECH 2025-1
 
 ##### <b>Awards & Scholarships</b>
 
 - Full 4-year National Excellence Scholarship of science and engineering department (2015)
+- Merit Based Scholarship (top ~7%; 2015-2, 2019, 2020)
 
 ##### <b>Academic Interests</b>
 
