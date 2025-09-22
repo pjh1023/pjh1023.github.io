@@ -30,6 +30,7 @@ Currently, I am studying Topological Data Analysis (TDA) and their application o
 ##### <b>Experience</b>
 
 - Research Assistant
+
   - Image Processing & Intelligent System Lab @ HGU (Dr. Hojoon Kim), 2018-2020
 
 - Teaching Assistant
