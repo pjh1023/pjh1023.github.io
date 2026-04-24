@@ -18,6 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+<b>This site has been deprecated. Please visit <a href="https://sites.google.com/view/joonhyukpark/about?authuser=0">my new website!</a></b>
+
 I am a MS/Ph.D. student in the <a href="https://mip.postech.ac.kr">Medical Information Processing (MIP) lab</a> led by <a href="https://wwplato.github.io">Dr. Won Hwa Kim</a> at POSTECH, South Korea.
 My research interests are computer vision, machine learning on graphs, and medical imaging.
 Currently, I am studying Topological Data Analysis (TDA) and their application on graphs.
